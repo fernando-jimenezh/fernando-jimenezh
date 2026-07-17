@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/images/profile.jpg" width="180" alt="Lenin Fernando Jiménez Herrera">
+  <img src="assets/images/profile.jpg" width="100" alt="Lenin Fernando Jiménez Herrera">
 </p>
 
 <h1 align="center">
