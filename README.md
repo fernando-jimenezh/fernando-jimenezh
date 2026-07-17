@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="assets/images/github-banner.png" width="100%" alt="Cybersecurity Banner">
+</p>
+
+<br>
+
+<p align="center">
   <img src="assets/images/profile.jpg" width="180" alt="Lenin Fernando Jiménez Herrera">
 </p>
 
