@@ -402,6 +402,8 @@ Si deseas conocer con mayor detalle mi trayectoria profesional, certificaciones 
 
 Espero que la documentación, los laboratorios y los proyectos aquí presentados reflejen mi compromiso con el aprendizaje continuo, la calidad técnica y las buenas prácticas en ciberseguridad defensiva.
 
+
+
 </p>
 
 <p align="center">
