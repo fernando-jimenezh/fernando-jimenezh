@@ -399,6 +399,11 @@ Si deseas conocer con mayor detalle mi trayectoria profesional, certificaciones 
 > *"La ciberseguridad defensiva no se construye únicamente mediante herramientas, sino mediante conocimiento, práctica constante, documentación técnica y mejora continua. Cada laboratorio documentado en este portafolio representa un paso más en ese proceso de aprendizaje y evolución profesional."*
 
 ---
+---
+
+<p align="center">
+  <img src="assets/images/github-banner.png" width="100%" alt="Cybersecurity Banner">
+</p>
 
 <p align="center">
 
