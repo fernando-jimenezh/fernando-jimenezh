@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/images/github-banner.png" width="100%" alt="Cybersecurity Banner">
-</p>
-
 <br>
 
 <p align="center">
@@ -399,11 +395,6 @@ Si deseas conocer con mayor detalle mi trayectoria profesional, certificaciones 
 > *"La ciberseguridad defensiva no se construye únicamente mediante herramientas, sino mediante conocimiento, práctica constante, documentación técnica y mejora continua. Cada laboratorio documentado en este portafolio representa un paso más en ese proceso de aprendizaje y evolución profesional."*
 
 ---
----
-
-<p align="center">
-  <img src="assets/images/github-banner.png" width="100%" alt="Cybersecurity Banner">
-</p>
 
 <p align="center">
 
@@ -412,3 +403,9 @@ Si deseas conocer con mayor detalle mi trayectoria profesional, certificaciones 
 Espero que la documentación, los laboratorios y los proyectos aquí presentados reflejen mi compromiso con el aprendizaje continuo, la calidad técnica y las buenas prácticas en ciberseguridad defensiva.
 
 </p>
+
+<p align="center">
+  <img src="assets/images/github-banner.png" width="100%" alt="Cybersecurity Banner">
+</p>
+
+<br>
