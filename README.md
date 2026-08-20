@@ -5,7 +5,7 @@
 <h1 align="center">Lenin Fernando Jiménez Herrera</h1>
 
 <p align="center">
-  <strong>Analista SOC N1-N2 | SIEM | Security Monitoring | Threat Hunting | Gestión de Vulnerabilidades | Infraestructura TI</strong>
+  <strong>Analista SOC N1-N2 | SIEM | Security Monitoring | Threat Hunting | Security Automation | AI-assisted Security Operations | Infraestructura TI</strong>
 </p>
 
 <p align="center">
@@ -23,11 +23,13 @@
 
 ## Perfil profesional
 
-Mi experiencia combina una base consolidada en **infraestructura TI** con práctica aplicada en **Security Operations**, **SIEM**, **Threat Hunting**, **Detection Engineering**, **gestión de vulnerabilidades** y análisis de eventos de seguridad.
+Mi experiencia combina una base consolidada en **infraestructura TI** con práctica aplicada en **Security Operations**, **SIEM**, **Threat Hunting**, **Detection Engineering**, **gestión de vulnerabilidades**, **Security Automation** y análisis de eventos de seguridad.
+
+También he desarrollado experiencia práctica en la implementación de **IA local aplicada a operaciones técnicas**, incluyendo despliegue de modelos LLM, integración mediante APIs y agentes, ejecución controlada de herramientas, procesamiento determinístico de resultados y diseño de flujos donde la IA interpreta y orquesta sin disponer de acceso irrestricto al sistema operativo.
 
 Trabajo con una metodología orientada a evidencia: generar o recolectar telemetría, validar detecciones, correlacionar eventos, documentar hallazgos y mantener conclusiones separadas de las suposiciones.
 
-Actualmente busco continuar desarrollándome en posiciones relacionadas con **SOC N1-N2, SIEM, Blue Team y Security Monitoring**, aprovechando la experiencia previa en operación e infraestructura tecnológica.
+Actualmente busco continuar desarrollándome en posiciones relacionadas con **SOC N1-N2, SIEM, Blue Team, Security Monitoring y Security Automation**, aprovechando la experiencia previa en operación e infraestructura tecnológica.
 
 ## Competencias principales
 
@@ -37,6 +39,8 @@ Actualmente busco continuar desarrollándome en posiciones relacionadas con **SO
 | **SIEM** | Wazuh, integración de telemetría, agentes, rulesets, validación de alertas y tuning |
 | **Threat Hunting** | Hunting basado en hipótesis, PowerShell, LOLBins, Windows Discovery, correlación de actividad |
 | **Detection Engineering** | Validación de reglas nativas, análisis de lógica de detección, Sigma, MITRE ATT&CK |
+| **Security Automation** | Automatización de tareas, ejecución controlada de herramientas, APIs, agentes y procesamiento estructurado de resultados |
+| **AI-assisted Security Operations** | LLM local, Ollama, Open WebUI, integración de modelos, agentes, APIs, tool orchestration y controles de ejecución |
 | **Windows / Linux Security** | Sysmon, Event Logs, auditd, administración y análisis de telemetría |
 | **Infraestructura** | Windows, Linux, Active Directory, virtualización, redes, Microsoft 365 / Entra ID |
 | **Network & Security** | FortiGate, Syslog, API, WireGuard, análisis de tráfico y conectividad |
@@ -44,7 +48,21 @@ Actualmente busco continuar desarrollándome en posiciones relacionadas con **SO
 
 ## Experiencia práctica destacada
 
-El portafolio técnico contiene investigaciones desarrolladas en un **laboratorio propio y controlado**, utilizando telemetría real generada durante las pruebas.
+El portafolio técnico contiene investigaciones y proyectos desarrollados en un **laboratorio propio y controlado**, utilizando telemetría real y resultados obtenidos durante pruebas técnicas.
+
+### AI-assisted Security Operations
+
+Diseño e implementación de un laboratorio privado de IA orientado a operaciones técnicas y de seguridad.
+
+- Despliegue de un LLM local mediante Ollama.
+- Integración de una interfaz Web para interacción con el modelo.
+- Diseño de agentes y APIs para conectar lenguaje natural con herramientas técnicas autorizadas.
+- Separación entre razonamiento del modelo y ejecución real de comandos.
+- Uso de allowlists, validación de parámetros, timeouts y auditoría.
+- Procesamiento determinístico de resultados antes de su interpretación por el LLM.
+- Validación end-to-end de una acción técnica ejecutada desde la capa de IA sobre un runner Linux controlado.
+
+**[Ver proyecto de IA aplicada a Security Operations](https://github.com/fernando-jimenezh/Cybersecurity-Portfolio/tree/main/Projects/AI-Security-Automation)**
 
 ### PowerShell EncodedCommand — investigación completa
 
@@ -73,7 +91,7 @@ Investigaciones de PowerShell, LOLBins y comandos de discovery utilizando consul
 
 ## Tecnologías
 
-`Wazuh` · `Sysmon` · `Suricata` · `Sigma` · `MITRE ATT&CK` · `Windows` · `Linux` · `Kali Linux` · `PowerShell` · `Bash` · `Microsoft 365` · `Entra ID` · `Active Directory` · `FortiGate` · `Git` · `GitHub`
+`Wazuh` · `Sysmon` · `Suricata` · `Sigma` · `MITRE ATT&CK` · `Windows` · `Linux` · `Kali Linux` · `PowerShell` · `Bash` · `Microsoft 365` · `Entra ID` · `Active Directory` · `FortiGate` · `Ollama` · `Open WebUI` · `Local LLM` · `REST API` · `Git` · `GitHub`
 
 ## Formación y credenciales
 
@@ -88,7 +106,7 @@ Investigaciones de PowerShell, LOLBins y comandos de discovery utilizando consul
 
 ## Portafolio técnico
 
-El repositorio **Cybersecurity-Portfolio** concentra la evidencia práctica: laboratorios, investigaciones, validación de detecciones, Threat Hunting, casos de estudio y documentación técnica.
+El repositorio **Cybersecurity-Portfolio** concentra la evidencia práctica: laboratorios, investigaciones, validación de detecciones, Threat Hunting, casos de estudio, automatización e integración de IA aplicada a operaciones de seguridad.
 
 <p align="center">
   <strong><a href="https://github.com/fernando-jimenezh/Cybersecurity-Portfolio">Explorar Cybersecurity Portfolio →</a></strong>
